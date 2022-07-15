@@ -1,0 +1,5 @@
+package com.iexceed.appzillon.coupon.model;
+
+public class Coupon {
+
+}

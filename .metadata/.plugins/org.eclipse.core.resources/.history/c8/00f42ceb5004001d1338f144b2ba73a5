@@ -1,0 +1,5 @@
+package com.iexceed.appzillon.product.controller.dto;
+
+public class Coupon {
+
+}

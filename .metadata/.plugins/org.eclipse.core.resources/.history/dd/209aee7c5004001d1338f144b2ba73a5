@@ -1,0 +1,5 @@
+package com.iexceed.appzillon.product.repo;
+
+public interface ProductRepo extends JpaRepository{
+
+}
