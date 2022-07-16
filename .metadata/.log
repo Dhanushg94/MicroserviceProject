@@ -1735,3 +1735,21 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2022-07-15 20:47:01.952
 !MESSAGE Has main method computation for project 'coupon service'
+
+!ENTRY Activator 1 0 2022-07-15 20:56:22.524
+!MESSAGE Has main method computation for project 'productServices'
+
+!ENTRY Activator 1 0 2022-07-15 20:56:22.524
+!MESSAGE Has main method computation for project 'coupon service'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 20:56:22.529
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.xVnWKtGU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 20:56:22.530
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.xVnWKtGU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 20:56:22.530
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 20:56:22.531
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.xVnWKtGU => OK
